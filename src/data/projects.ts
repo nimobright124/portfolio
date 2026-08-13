@@ -23,7 +23,7 @@ export const projects: Project[] = [
       "Short description of what this project does, the problem it solves, and any interesting technical decisions behind it.",
     technologies: ["React", "TypeScript", "Tailwind CSS"],
     category: "Web Development",
-    github: "https://github.com/YOUR_GITHUB/project-one",
+    github:"",
     placeholder: true,
   },
   {
@@ -32,7 +32,7 @@ export const projects: Project[] = [
       "Short description of what this project does, the problem it solves, and any interesting technical decisions behind it.",
     technologies: ["Node.js", "Express", "PostgreSQL"],
     category: "Software Engineering",
-    github: "https://github.com/YOUR_GITHUB/project-two",
+    github: " ",
     placeholder: true,
   },
   {
@@ -41,7 +41,7 @@ export const projects: Project[] = [
       "Short description of a security-focused build — a scanner, a hardened auth flow, a lab writeup, or a defensive tool.",
     technologies: ["Python", "Linux"],
     category: "Cybersecurity",
-    github: "https://github.com/YOUR_GITHUB/project-three",
+    github: " ",
     placeholder: true,
   },
 ];

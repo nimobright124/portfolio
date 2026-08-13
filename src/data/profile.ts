@@ -4,14 +4,14 @@
 // ─────────────────────────────────────────────────────────────
 
 export const profile = {
-  name: "YOUR NAME",
+  name: "NIMO BRIGHT",
   role: "Software Developer & Cybersecurity Learner",
-  location: "YOUR LOCATION",
-  email: "your@email.com",
-  github: "https://github.com/YOUR_GITHUB",
-  githubHandle: "github.com/YOUR_GITHUB",
-  linkedin: "https://linkedin.com/in/YOUR_LINKEDIN",
-  linkedinHandle: "linkedin.com/in/YOUR_LINKEDIN",
+  location: "ASHAIMAN NEW-YORK",
+  email: "nimobright25@gmail.com",
+  github: "https://github.com/nimobright124",
+  githubHandle: "github.com/nimobright124",
+  linkedin: "https://linkedin.com/in/",
+  linkedinHandle: "linkedin.com/in/",
   // Optional — leave empty string to hide from Contact section
   twitter: "",
 
